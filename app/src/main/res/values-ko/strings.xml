@@ -7,8 +7,7 @@
     <string name="Alert_Loading">로딩중...</string>
     <string name="Alert_Restart">재시작</string>
     <string name="Button_Cancel">취소</string>
-    <string name="Button_Skip">건너뛰기</string>
-    <string name="Button_Next">다음</string>
+    <string name="Button_Next">Next</string>
     <string name="Button_Enable">활성화</string>
     <string name="Button_Disable">비활성화</string>
     <string name="Button_Close">가까운, 닫힌</string>
@@ -27,23 +26,19 @@
     <string name="Button_Reset">Reset</string>
     <string name="Error">오류</string>
     <string name="NotAvailable">해당 없음 </string>
-    <string name="None">없음</string>
     <string name="Any">Any</string>
-    <string name="Wallet">%s 지갑</string>
     <!--Intro-->
-    <string name="Intro_Wallet_Description">암호를 저장 및 거래합니다. 자산을 완전히 통제합니다. 익명인 상태로 유지합니다.</string>
-    <string name="Intro_Invest_Title">현명하게 투자</string>
-    <string name="Intro_Invest_Description">Unstoppable은 비교할 수 없는 최고의 거래, 모니터링 및 분석 도구를 통합시킵니다.</string>
-    <string name="Intro_Independence_Title">독립하십시오</string>
-    <string name="Intro_Independence_Description">Unstoppable은 사용자들이 어디서든 언제든지 자금에 접근할 수 있도록 하기 위해 설계되었습니다.</string>
-    <string name="Intro_Privacy_Title">개인 정보 유지</string>
-    <string name="Intro_Privacy_Description">이 지갑을 사용하여 신분을 숨기고 귀하의 정보를 안전하게 보호할 수 있습니다.</string>
+    <string name="Intro_Wallet_Screen1Description">Be Unstoppable</string>
+    <string name="Intro_Wallet_Screen2Title">Unchain Assets</string>
+    <string name="Intro_Wallet_Screen2Description">Don\'t lock yourself in and don\'t let others do that to you.</string>
+    <string name="Intro_Wallet_Screen3Title">Go Borderless</string>
+    <string name="Intro_Wallet_Screen3Description">Bypass conditional barriers and access markets globally.</string>
+    <string name="Intro_Wallet_Screen4Title">Stay Private</string>
+    <string name="Intro_Wallet_Screen4Description">Do not leak your private and financial data to the world.</string>
     <!--Rooted Device-->
     <string name="RootedDevice_Button_Understand">이해합니다</string>
     <!--Welcome-->
     <string name="Welcome_PrivacySettings">개인 정보 설정</string>
-    <string name="Welcome_CreateWallet">새 지갑</string>
-    <string name="Welcome_RestoreWallet">지갑 복원</string>
     <!--Create Wallet-->
     <string name="CreateWallet_Title">새 지갑</string>
     <string name="CreateWallet_Mnemonic">연상 기호</string>
@@ -61,12 +56,9 @@
     <string name="RateApp_Button_RateIt">평가 하기</string>
     <string name="RateApp_Button_NotNow">다음에 확인</string>
     <!--Restore-->
-    <string name="Restore_ChooseWallet">지갑 선택하기</string>
     <string name="Restore_Enter_Key_Title">암호를 입력하세요</string>
-    <string name="Restore_Enter_Key_Description_Mnemonic">%2s 의 단어로 이루어진 개인 암호를 %1s 지갑에 입력해 주십시오. 단어들은 올바르게 입력 되어야 하고 또 스페이스를 통해 분리되어야 합니다.</string>
     <string name="Restore_Mnemonic_Description">12 또는 24개의 단어로 구성된 연상 기호를 입력합니다. 단어는 올바른 순서로 입력하고 공백으로 구분해야 합니다.</string>
     <string name="Restore_ValidationFailed">틀린 암호 입니다</string>
-    <string name="Restore_InvalidWordCount">잘못된 단어 수입니다: %1$d.  %2$d 개여야 합니다</string>
     <string name="Restore_Error_MnemonicWordCount">단어 수가 틀렸습니다. 12 개 또는 24개여야 합니다. 이렇게 입력하셨습니다: %d</string>
     <string name="Restore_Error_EmptyPassphrase">암호 문구는 필수 입력 사항입니다</string>
     <string name="Restore_InvalidChecksum">유효하지 않은 체크섬</string>
@@ -75,15 +67,7 @@
     <string name="Restore_ZCash_BirthdayHeight">생일 신장</string>
     <string name="Restore_ZCash_BirthdayHeight_Hint">Zcash 지갑의 birthday height를 알고 있다면 아래에 추가하여 동기화 속도를 높입니다.</string>
     <!--Backup-->
-    <string name="Backup_Intro_Title">백업</string>
-    <string name="Backup_Intro_TitleShow">암호 보이기</string>
-    <string name="Backup_Intro_Subtitle">다음에 나오게될 개인 암호는 귀하께서 휴대폰 분실, 도난, 파손 등을 당하셨을 경우에 귀하의 자금을 복원시킬 유일한 방법입니다.\n\n다른 사람이 귀하의 화면을 보지 못하게 하십시오.\n\n코인들은 이 암호로 통제됩니다.%s.</string>
-    <string name="Backup_DisplayTitle">개인 암호</string>
-    <string name="Backup_Confirmation_Description">귀하의 %s 키에서 단어를 입력하십시오</string>
-    <string name="Backup_Confirmation_FailureAlertText">암호가 일치 하지 않습니다.</string>
     <string name="Backup_Confirmation_CheckTitle">확인 중…</string>
-    <string name="Backup_Button_Backup">백업</string>
-    <string name="Backup_Button_ShowKey">암호 보이기</string>
     <!--Market-->
     <string name="Market_Field_MarketCap">MCap</string>
     <string name="Market_Field_Volume">Volume</string>
@@ -184,11 +168,8 @@
     <string name="Market_Filter_ChooseSet">Choose Set</string>
     <string name="Market_Filter_MarketCap">Market Cap</string>
     <string name="Market_Filter_Volume">Trading Volume</string>
-    <string name="Market_Filter_Liquidity">DEX Liquidity</string>
-    <string name="Market_Filter_LiquidityHint">This setting applies to tokens traded on Ethereum (Uniswap DEX) and Binance Smart Chain (Pancake DEX).</string>
     <string name="Market_Filter_PricePeriod">Price Period</string>
     <string name="Market_Filter_PriceChange">Price Change</string>
-    <string name="Market_Filter_ResetAll">Reset All</string>
     <string name="Market_Filter_OutperformedBtc">Outperformed BTC</string>
     <string name="Market_Filter_OutperformedEth">Outperformed ETH</string>
     <string name="Market_Filter_OutperformedBnb">Outperformed BNB</string>
@@ -226,7 +207,6 @@
     <string name="CoinMarket_Title">%s Markets</string>
     <!--Balance-->
     <string name="Balance_Title">잔액</string>
-    <string name="Balance_Deposit">수신</string>
     <string name="Balance_Send">전송</string>
     <string name="Balance_RatePerCoin">%s 당 %s</string>
     <string name="Balance_SyncedUntil">%s 까지</string>
@@ -240,13 +220,13 @@
     <string name="Balance_Sort_PopupTitle">정렬 기준</string>
     <string name="Balance_Sort_Az">이름</string>
     <string name="Balance_Sort_24hPriceChange">24시간 가격 (%)</string>
+    <string name="Balance_Hidden">hidden</string>
     <string name="Balance_Backup_Alert">귀하께서 %s를 받기전에 %s 지갑의 백업이 필요합니다.</string>
     <string name="Balance_NoWalletAlert">귀하께서는 아직 지갑이 없습니다. 새 생성 또는 기존 복원 해주십시오 </string>
     <string name="Balance_NoCoinsAlert">이 지갑에 코인을 넣지 않았습니다</string>
     <!--Send-->
     <string name="Send_Title">전송 %s</string>
     <string name="Send_Hint_Address">주소 또는 도메인</string>
-    <string name="Send_Hint_Amount">양</string>
     <string name="Send_Fee">수수료</string>
     <string name="Send_Button_Paste">붙여넣기</string>
     <string name="Send_Button_Max">최대</string>
@@ -256,7 +236,6 @@
     <string name="Send_Confirmation_Amount">양</string>
     <string name="Send_Confirmation_To">에게</string>
     <string name="Send_Confirmation_Receiver">받는 사람</string>
-    <string name="Send_Confirmation_Input">입력</string>
     <string name="Send_Confirmation_EstimateTime">예상 소요시간:</string>
     <string name="Send_Confirmation_Send_Button">전송</string>
     <string name="Send_Success">\u2713 보냄</string>
@@ -268,7 +247,6 @@
     <string name="Send_Error_MinimumAmount">최소 %s 금액</string>
     <string name="Send_Error_MaximumAmount">최대 %s 금액</string>
     <string name="Send_Error_MinRequiredBalance">최소 %s 만큼의 필요 잔여금</string>
-    <string name="Send_Error_WrongParameters">잘못된 매개 변수</string>
     <string name="Send_Error_TransparentAddress">Unstoppable은 투명 주소에 대한 지불을 지원하지 않습니다</string>
     <string name="Send_Error_SendToSelf">자체로 전송이 지원되지 않음</string>
     <string name="Send_DialogAvailableBalance">사용 가능한 잔액</string>
@@ -278,7 +256,6 @@
     <string name="Send_TxSpeed_Recommended">권장</string>
     <string name="Send_TxSpeed_Custom">사용자 지정</string>
     <string name="Send_TxSpeed_CustomFeeHint">sat/byte</string>
-    <string name="Send_DialogDuration">기간</string>
     <string name="Send_DialogFee">수수료:</string>
     <string name="Send_DialogProceed">다음</string>
     <string name="Send_LockTime_Off">끄기</string>
@@ -308,11 +285,15 @@
     <string name="WalletConnect_Ready_Hint">브라우저로 이동하십시오. 브라우저에서 상호 작용하는 동안에는 이 페이지를 닫지 마십시오.</string>
     <string name="WalletConnect_Error_InvalidUrl">잘못된 주소</string>
     <string name="WalletConnect_Requirement">요구 사항</string>
-    <string name="WalletConnect_RequirementDescription">WalletConnect을 사용하려면 Ethereum 또는 ERC20 코인을 잔액 탭에 추가해야합니다.</string>
     <string name="WalletConnect_Status_Offline">오프라인</string>
     <string name="WalletConnect_Status_Online">온라인</string>
     <string name="WalletConnect_Status_Connecting">연결중...</string>
     <string name="WalletConnect_NewConnect">새로운 연결</string>
+    <string name="WalletConnect_SignMessageRequest_Title">Sign Request</string>
+    <string name="WalletConnect_SignMessageRequest_Domain">Domain</string>
+    <string name="WalletConnect_SignMessageRequest_ShowMessageTitle">Message to sign</string>
+    <string name="WalletConnect_SignMessageRequest_SignMessageHint">Please sign a message to authenticate</string>
+    <string name="WalletConnect_SignMessageRequest_ButtonSign">Sign</string>
     <!--EthereumTransaction-->
     <string name="EthereumTransaction_Error_InsufficientBalance">거래에서 전송하려면 %s가 필요합니다</string>
     <string name="EthereumTransaction_Error_InsufficientBalanceForFee">현재 %s 잔액은 거래 수수료를 포함하여이 거래를 처리하는 데 필요한 금액보다 적습니다.</string>
@@ -328,7 +309,6 @@
     <string name="Swap_Price">금액</string>
     <string name="Swap_PriceImpact">가격 영향</string>
     <string name="Swap_MinimumReceived">보증 금액</string>
-    <string name="Swap_SwapFee">스왑 비용</string>
     <string name="Swap_EstimatedFee">예상 수수료</string>
     <string name="Swap_MaxFee">최대 수수료</string>
     <string name="Swap_Fee">수수료</string>
@@ -420,7 +400,6 @@
     <string name="TransactionInfo_Fee">수수료</string>
     <string name="TransactionInfo_SentToSelfNote">이 거래는 귀하의 주소로 전송이 되었습니다</string>
     <string name="TransactionInfo_DoubleSpendNote">이중 지출 위험!</string>
-    <string name="TransactionInfo_Input">입력</string>
     <string name="TransactionInfo_ButtonViewOnExplorerName">%s에서 보기</string>
     <string name="StatusInfo_Pending">보류 중</string>
     <string name="StatusInfo_SendingReceiving">보내는 중 / 받는 중</string>
@@ -554,7 +533,6 @@
     <string name="Binance_Backend_Error_RequiresDigits">메모에는 숫자만 포함하셔야 합니다</string>
     <!--Hud texts-->
     <string name="Hud_Text_Success">성공</string>
-    <string name="Hud_Text_Done">완료</string>
     <string name="Hud_Text_NoInternet">인터넷에 연결되지 않음</string>
     <string name="Hud_Text_Copied">복사됨</string>
     <string name="Hud_Text_EmailAddressCopied">이메일 주소 복사됨</string>
@@ -581,16 +559,18 @@
     <string name="ManageAccount_Save">저장</string>
     <string name="ManageAccount_RecoveryPhraseBackup">백업 문구</string>
     <string name="ManageAccount_RecoveryPhraseShow">문구 표시</string>
+    <string name="ManageAccount_NetworkSettings">Network Settings</string>
     <string name="ManageAccount_Unlink">연결되지 않은</string>
     <string name="ManageAccount_BackupRequired_Title">백업이 필요합니다</string>
     <string name="ManageAccount_BackupRequired_Description">개인 암호가 휴대폰에서 지워질 수 있기 전에 귀하께서는 개인 암호를 백업 하셔야 합니다.</string>
-    <string name="ManageAccount_DeleteFromPhone">휴대전화에서 삭제</string>
     <string name="ManageAccount_Delete_ConfirmationRemove">장치에서 이 지갑을 삭제합니다.</string>
     <string name="ManageAccount_Delete_ConfirmationDisable">이 지갑에 속한 모든 코인은 잔액 탭에서 비활성화됩니다.</string>
     <string name="ManageAccount_Delete_ConfirmationLose">지갑에서 개인 암호를 백업 시키지 않으셨을 경우, 귀하께서는 자금 접근에 제한이 있을 것 입니다.</string>
     <string name="ManageAccount_BirthdayHeight">%s Birthday Height</string>
     <string name="ManageAccount_NWords">%s 단어</string>
     <string name="ManageAccount_NWordsWithPassphrase">암호 문구로 이루어진 %s 단어</string>
+    <!--Network Settings-->
+    <string name="NetworkSettings_Title">Network Settings</string>
     <!-- Show Key -->
     <string name="ShowKey_Title">키</string>
     <string name="ShowKey_Description">다음에 표시될 복구 문구는 휴대폰을 분실, 도난, 파손된 경우 자금을 복구할 수 있는 유일한 방법입니다.\n\n아무도 화면을 보고 있지 않은지 확인합니다.</string>
@@ -602,7 +582,6 @@
     <!-- Backup Key -->
     <string name="BackupKey_Title">백업</string>
     <string name="BackupKey_Description">다음에 표시될 복구 문구는 휴대폰을 분실, 도난, 파손된 경우 자금을 복구할 수 있는 유일한 방법입니다.\n\n아무도 화면을 보고 있지 않은지 확인합니다.</string>
-    <string name="BackupKey_ButtonShow">표시</string>
     <string name="BackupKey_ButtonBackup">백업</string>
     <string name="BackupConfirmKey_Description">확인할 복구 문구를 올바른 순서로 입력하십시오</string>
     <string name="BackupConfirmKey_EmptyOrInvalidWords">입력 한 단어가 비어 있거나 잘못되었습니다.</string>
@@ -613,14 +592,8 @@
     <!--Manage Keys Delete Alert-->
     <string name="ManageKeys_Delete_Title">지갑 삭제하기</string>
     <string name="ManageKeys_Delete_ConfirmationRemove">이 행동은 %s 지갑을 장치에서 삭제합니다.</string>
-    <string name="ManageKeys_Delete_ConfirmationDisable">비활성화될 코인: %s</string>
-    <string name="ManageKeys_Delete_ConfirmationLose">지갑에서 개인 암호를 백업 시키지 않으셨을 경우, 귀하께서는 자금 접근에 제한이 있을 것 입니다.</string>
     <string name="ManageKeys_Delete_FromPhone">휴대전화에서 삭제</string>
-    <string name="ManageKeys_Delete_Alert_Title">백업이 필요합니다</string>
-    <string name="ManageKeys_Delete_Alert">개인 암호가 휴대폰에서 지워질 수 있기 전에 귀하께서는 개인 암호를 백업 하셔야 합니다.</string>
     <!-- Manage Keys Alert -->
-    <string name="AddCoin_Title">추가하기 %s</string>
-    <string name="AddCoin_Subtitle">%s 지갑</string>
     <string name="AddCoin_Description">귀하께서는 %1$s 을 보내거나 받으시려면 %2$s 지갑을 설정하셔야 합니다.\n\n아래의 생성 버튼을 사용하여 새로운 %3$s 지갑을 설정하거나 복원 버튼을 사용하여 기존 지갑을 가져옵니다.\n\n귀하께서는 이 지갑을 %4$s 를 위해 사용하실 수 있습니다.</string>
     <string name="AddCoin_CreateKey">만들기</string>
     <string name="AddCoin_RestoreKey">복구</string>
@@ -657,10 +630,6 @@
     <string name="AddressFormatSettings_Title">주소 형식</string>
     <string name="AddressFormatSettings_Description">귀하의 %s 지갑의 주소 형식을 선택하십시오. 선택한 각 형식은 앱의 잔고 탭에 있는 다른 지갑을 나타냅니다.</string>
     <!-- Blockchain Settings -->
-    <string name="BlockchainSettings_BipChangeAlert_Title">주소 형식</string>
-    <string name="BlockchainSettings_ChangeAlert_ActionButtonText">%s으로 변경</string>
-    <string name="BlockchainSettings_BipChangeAlert_Content">이 변경 후 지갑은 %1$s 블록체인과 다시 동기화 되어야합니다.\n\n
-%2$s 의 주소 형식을 변경하실 때에 현재 잔액 및 거래 내역이 더 이상 잔액 탭에 표기되지 않습니다. 이전 설정으로 다시 변경하시면 지갑이 블록체인과 다시 동기화된 후 모든 것을 다시 가져옵니다. 저희는 그것이 확실치 않을시에 변경하지 않는 것을 권장합니다.</string>
     <string name="BlockchainSettings_SyncModeChangeAlert_Title">매개 변수 복원</string>
     <string name="BlockchainSettings_SyncModeChangeAlert_Content">이 변경 후에 지갑은 %s 블록체인과 다시 동기화 되어야합니다.</string>
     <string name="BlockchainSettings_CommunicationModeChangeAlert_Title">통신</string>
@@ -678,8 +647,6 @@
     <string name="TorPage_Failed">실패</string>
     <string name="TorPage_ConnectionClosed">연결 해제</string>
     <string name="Tor_PrerequisitesAlert_Content">토르를 활성화하면 Infura의 이더리움 블록체인 연결이 초기화됩니다.</string>
-    <!-- Account Types -->
-    <string name="AccountType_Unstoppable">Unstoppable</string>
     <!--Coin Option-->
     <string name="CoinOption_bip44_Subtitle">더 오래된 (%s부터 시작...)</string>
     <string name="CoinOption_bip49_Subtitle">인기있는 (%s부터 시작...)</string>
@@ -694,13 +661,12 @@
     <string name="CoinPage_TimeDuration_HalfYear">6M</string>
     <string name="CoinPage_TimeDuration_Year">1Y</string>
     <string name="CoinPage_TimeDuration_Year2">2Y</string>
-    <string name="CoinPage_RatingDetails">Rating Details</string>
-    <string name="CoinPage_Price">금액</string>
-    <string name="CoinPage_Market">Market</string>
+    <string name="CoinPage_Markets">Markets</string>
     <string name="CoinPage_TradingVolume">Trading Volume</string>
+    <string name="CoinPage_MajorHolders">Major Holders</string>
+    <string name="CoinPage_InvestorData">Investor Data</string>
     <string name="CoinPage_FundsInvested">Funds Invested</string>
     <string name="CoinPage_Range24">24h Range</string>
-    <string name="CoinPage_Performance">Performance</string>
     <string name="CoinPage_About">About</string>
     <string name="CoinPage_Category">Category</string>
     <string name="CoinPage_Guide">Guide</string>
@@ -710,38 +676,32 @@
     <string name="CoinPage_Twitter">Twitter</string>
     <string name="CoinPage_Telegram">Telegram</string>
     <string name="CoinPage_Github">Github</string>
-    <string name="CoinPage_Changes1W">Changes (1W)</string>
-    <string name="CoinPage_Changes1M">Changes (1M)</string>
     <string name="CoinPage_MarketCap">Market Cap</string>
     <string name="CoinPage_DilutedMarketCap">Diluted MCap</string>
-    <string name="CoinPage_Volume24">Volume (24h)</string>
     <string name="CoinPage_inCirculation">In Circulation</string>
     <string name="CoinPage_TotalSupply">Total Supply</string>
-    <string name="CoinPage_StartDate">Launch Date</string>
     <string name="CoinPage_MarketCap_Thousand">k</string>
     <string name="CoinPage_MarketCap_Million">M</string>
     <string name="CoinPage_MarketCap_Billion">B</string>
     <string name="CoinPage_MarketCap_Trillion">T</string>
     <string name="CoinPage_Volume">Vol</string>
-    <string name="CoinPage_Error_NotAvailable">차트 이용불가</string>
-    <string name="CoinPage_LatestNews">Latest News</string>
+    <string name="CoinPage_NoData">No Data</string>
     <string name="CoinPage_Favorite">Favorite</string>
     <string name="CoinPage_Unfavorite">Unfavorite</string>
     <string name="CoinPage_Performance_Week">1 Week</string>
     <string name="CoinPage_Performance_Month">1 Month</string>
     <string name="CoinPage_ReadMore">Read More</string>
     <string name="CoinPage_ReadLess">Read Less</string>
-    <string name="CoinPage_LaunchDate">Launch Date</string>
+    <string name="CoinPage_LaunchDate">Inception Date</string>
     <string name="CoinPage_Tvl">Total Value Locked</string>
     <string name="CoinPage_TvlRank">TVL Rank</string>
     <string name="CoinPage_TvlMCapRatio">MCap / TVL Ratio</string>
     <string name="CoinPage_TvlDescription">Capital deposited into the platform in the form of loan collateral or liquidity pool.</string>
     <string name="CoinPage_Contract">%s Contract</string>
     <string name="CoinPage_Bep2Symbol">BEP2 Symbol</string>
+    <string name="CoinPage_MajorHolders_Address">Address</string>
+    <string name="CoinPage_MajorHolders_Description">Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.</string>
     <!--Rate list-->
-    <string name="RateList_portfolio">포트폴리오</string>
-    <string name="RateList_top100">상위 100</string>
-    <string name="RateList_Rank">순위</string>
     <string name="RateList_TopGainers">Top Gainers</string>
     <string name="RateList_TopLosers">Top Losers</string>
     <string name="RateList_Posts">News</string>
@@ -753,4 +713,6 @@
     <string name="BalanceSyncError_ButtonRetry">재시도</string>
     <string name="BalanceSyncError_ButtonChangeSource">출처를 변경하다</string>
     <string name="BalanceSyncError_ButtonReport">보고</string>
+    <!--Release notes-->
+    <string name="ReleaseNotes_FollowUs">Follow Us</string>
 </resources>

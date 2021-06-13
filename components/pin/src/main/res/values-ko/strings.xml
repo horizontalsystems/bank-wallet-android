@@ -16,9 +16,7 @@
     <!--Set Pin-->
     <string name="SetPin_Title">비밀번호</string>
     <string name="SetPin_Info">너의 비밀번호는 너의 지갑을 열어주고 돈을 보내는데 사용될 것입니다.</string>
-    <string name="SetPin_ErrorShortPin">모든 숫자를 입력하세요.</string>
     <string name="SetPin_ConfirmInfo">확인</string>
-    <string name="SetPin_Success">비밀번호 장금이 성공적으로 설정되었습니다!</string>
     <string name="SetPin_ErrorPinsDontMatch">비밀번호가 일치하지 않습니다. 다시 시도하세요.</string>
     <string name="SetPin_ErrorFailedToSavePin">당신의 비밀번호를 저장하는 동안 오류가 발생했습니다. 다시 시도하세요.</string>
     <!--Edit Pin-->

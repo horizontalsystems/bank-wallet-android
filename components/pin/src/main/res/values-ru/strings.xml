@@ -16,9 +16,7 @@
     <!--Set Pin-->
     <string name="SetPin_Title">Код Доступа</string>
     <string name="SetPin_Info">Ваш код будет использоваться для разблокировки вашего кошелька и отправки денег</string>
-    <string name="SetPin_ErrorShortPin">Пожалуйста, введите только символы цифр.</string>
     <string name="SetPin_ConfirmInfo">Подтвердить</string>
-    <string name="SetPin_Success">Код доступа успешно установлен!</string>
     <string name="SetPin_ErrorPinsDontMatch">Код не совпадает. Попробуйте еще раз.</string>
     <string name="SetPin_ErrorFailedToSavePin">При сохранении вашего кода произошла ошибка. Повторите попытку.</string>
     <!--Edit Pin-->

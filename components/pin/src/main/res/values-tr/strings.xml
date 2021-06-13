@@ -16,9 +16,7 @@
     <!--Set Pin-->
     <string name="SetPin_Title">Kod</string>
     <string name="SetPin_Info">Şifre, programı açmak ve para göndermek için kullanılacak</string>
-    <string name="SetPin_ErrorShortPin">Lütfen bütün rakamları giriniz.</string>
     <string name="SetPin_ConfirmInfo">Onayla</string>
-    <string name="SetPin_Success">Kilit şifresi başarıyla oluşturuldu!</string>
     <string name="SetPin_ErrorPinsDontMatch">Kod uyuşmadı. Tekrar deneyin.</string>
     <string name="SetPin_ErrorFailedToSavePin">Şifre kaydedilirken hata oluştu. Tekrar deneyin.</string>
     <!--Edit Pin-->

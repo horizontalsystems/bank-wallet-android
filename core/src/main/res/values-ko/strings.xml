@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--Timestamp-->
-    <string name="Timestamp_JustNow">지금 막</string>
-    <string name="Timestamp_MinAgo">%d분 전</string>
-    <string name="Timestamp_HoursAgo">%d시간 전</string>
-    <string name="Timestamp_Today">오늘</string>
-    <string name="Timestamp_Yesterday">어제</string>
     <string name="Duration_instant">즉시</string>
     <string name="Duration_Within">%s 안에</string>
     <string name="Duration_Hours">%d 시</string>

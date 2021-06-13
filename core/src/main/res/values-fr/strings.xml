@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--Timestamp-->
-    <string name="Timestamp_JustNow">à l\'instant</string>
-    <string name="Timestamp_MinAgo">Il y a %d minute</string>
-    <string name="Timestamp_HoursAgo">Il y a %d heures</string>
-    <string name="Timestamp_Today">Aujourd\'hui</string>
-    <string name="Timestamp_Yesterday">Hier</string>
     <string name="Duration_instant">Instantané</string>
     <string name="Duration_Within">Dans la limite de %s</string>
     <string name="Duration_Hours">%d h.</string>

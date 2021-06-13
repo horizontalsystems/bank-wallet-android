@@ -16,9 +16,7 @@
     <!--Set Pin-->
     <string name="SetPin_Title">密码</string>
     <string name="SetPin_Info">您的密码将用于解锁钱包和发送资金</string>
-    <string name="SetPin_ErrorShortPin">请输入全部数字。</string>
     <string name="SetPin_ConfirmInfo">确认</string>
-    <string name="SetPin_Success">锁定密码设置成功！</string>
     <string name="SetPin_ErrorPinsDontMatch">密码不匹配。请重试。</string>
     <string name="SetPin_ErrorFailedToSavePin">保存密码时出错。请重试。</string>
     <!--Edit Pin-->

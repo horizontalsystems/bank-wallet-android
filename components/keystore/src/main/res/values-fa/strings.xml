@@ -6,7 +6,6 @@
     <string name="Alert_KeysInvalidatedTitle">خطای کلید اصلی اندروید</string>
     <string name="Alert_KeysInvalidatedDescription">داده رمزگذاری شده که کیف پول شما را نگه داشته است اخیراً باطل نشده است زیرا صفحه قفل اندروید شما تغییر کرده است</string>
     <string name="Alert_TitleWarning">هشدار</string>
-    <string name="Alert_NoDeviceLockDescription">برای ادامه یک صفحه قفل در این دستگاه تنظیم کنید. رفتن به \"تنظیمات\"؛ \"امنیت\" &gt;؛ \"قفل صفحه\" &gt; را فعال کرده و تنظیم صفحه قفل را فعال کنید.</string>
     <string name="Alert_CustomKeyboardIsUsed">It looks like your device uses a non-default keyboard. Unstoppable recommends selecting default keyboard on your device as third party keyboards can potentially collect and expose users\' input data. \n\nClick \'Skip\' button if you would like to keep using your preferred keyboard.</string>
     <string name="Alert_DeviceIsRootedWarning">The Unstoppable team recommends running app only on non-rooted (not jailbroken) phones.\n\nPlease note when you use a rooted device the app can no longer guarantee the safety of your cryptocurrency from malicious software.</string>
     <!--OS Pin-->

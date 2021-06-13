@@ -16,9 +16,7 @@
     <!--Set Pin-->
     <string name="SetPin_Title">رمز عبور</string>
     <string name="SetPin_Info">از کد عبور شما برای باز کردن کیف پول و ارسال پول استفاده می شود</string>
-    <string name="SetPin_ErrorShortPin">لطفا تمام ارقام را وارد كنيد.</string>
     <string name="SetPin_ConfirmInfo">تاييد</string>
-    <string name="SetPin_Success">رمز عبور قفل با موفقیت تنظیم شد!</string>
     <string name="SetPin_ErrorPinsDontMatch">کد عبور مطابقت نداشت. دوباره امتحان کنید.</string>
     <string name="SetPin_ErrorFailedToSavePin">هنگام ذخیره کد عبور شما خطایی روی داد. لطفا دوباره تلاش کنید.</string>
     <!--Edit Pin-->

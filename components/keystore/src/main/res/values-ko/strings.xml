@@ -6,7 +6,6 @@
     <string name="Alert_KeysInvalidatedTitle">안드로이드 키 저장소 에러</string>
     <string name="Alert_KeysInvalidatedDescription">안드로이드 잠금 화면이 변경 되어 지갑을 보유한 암호화된 데이터가 최근에 무효화되었습니다.</string>
     <string name="Alert_TitleWarning">경고</string>
-    <string name="Alert_NoDeviceLockDescription">계속하시려면 이 장치에서 잠금 화면을 설정하세요. \"설정\"으로 이동해서 &gt;\"보안\"&gt;\"스크린 잠금: 을 누르고 잠금 화면 설정을 활성화 해주세요.</string>
     <string name="Alert_CustomKeyboardIsUsed">It looks like your device uses a non-default keyboard. Unstoppable recommends selecting default keyboard on your device as third party keyboards can potentially collect and expose users\' input data. \n\nClick \'Skip\' button if you would like to keep using your preferred keyboard.</string>
     <string name="Alert_DeviceIsRootedWarning">Unstoppable 팀은 루트 없는 (탈옥 없는) 전화에서만 앱을 실행할 것을 권장드립니다./n/n루트 장치를 사용할 때 앱은 더 이상 악성 소프트웨어로부터 암호 화폐의 안전을 보장할 수 없습니다.</string>
     <!--OS Pin-->

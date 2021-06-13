@@ -16,9 +16,7 @@
     <!--Set Pin-->
     <string name="SetPin_Title">Code</string>
     <string name="SetPin_Info">Dein Code wird verwendet werden, um deinen Wallet zu entsperren und Geld schicken</string>
-    <string name="SetPin_ErrorShortPin">Gib bitte nur Zahlen ein.</string>
     <string name="SetPin_ConfirmInfo">Bestätigen</string>
-    <string name="SetPin_Success">Lock code wurde erfolgreich gesetzt!</string>
     <string name="SetPin_ErrorPinsDontMatch">Code stimmt nicht überein. Bitte noch einmal versuchen.</string>
     <string name="SetPin_ErrorFailedToSavePin">Beim Speichern Ihren Code ist leider ein Fehler aufgetreten. Bitte versuchen es erneut.</string>
     <!--Edit Pin-->

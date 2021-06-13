@@ -6,7 +6,6 @@
     <string name="Alert_KeysInvalidatedTitle">Error de almacenamiento de claves de Android</string>
     <string name="Alert_KeysInvalidatedDescription">Los datos encriptados de su monedero han sido recientemente  invalidados porque se cambió la pantalla de bloqueo de Android</string>
     <string name="Alert_TitleWarning">Aviso</string>
-    <string name="Alert_NoDeviceLockDescription">Configurar bloqueo de pantalla de este dispositivo para continuar. Ir a \"Ajustes\" &amp;gt; &amp;gt;  \"Seguridad\" \"Bloqueo de pantalla\" y establezca la configuración de la pantalla de bloqueo.</string>
     <string name="Alert_CustomKeyboardIsUsed">It looks like your device uses a non-default keyboard. Unstoppable recommends selecting default keyboard on your device as third party keyboards can potentially collect and expose users\' input data. \n\nClick \'Skip\' button if you would like to keep using your preferred keyboard.</string>
     <string name="Alert_DeviceIsRootedWarning">El equipo de Unstoppable recomienda ejecutar la aplicación sólo en teléfonos no rooteados (no jailbrokes).\n\nTenga en cuenta que cuando utilice un dispositivo con root, la aplicación ya no puede garantizar la seguridad de su criptomoneda con el software malicioso.</string>
     <!--OS Pin-->

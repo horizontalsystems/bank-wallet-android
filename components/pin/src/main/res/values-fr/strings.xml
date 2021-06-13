@@ -16,9 +16,7 @@
     <!--Set Pin-->
     <string name="SetPin_Title">Code</string>
     <string name="SetPin_Info">Votre code secret sera utilisé pour déverrouiller votre porte-monnaie et envoyer de l’argent</string>
-    <string name="SetPin_ErrorShortPin">S\'il vous plaît entrez tous les chiffres.</string>
     <string name="SetPin_ConfirmInfo">Confirmer</string>
-    <string name="SetPin_Success">Votre code a été défini avec succès!</string>
     <string name="SetPin_ErrorPinsDontMatch">Le code ne correspond pas. Réessayez.</string>
     <string name="SetPin_ErrorFailedToSavePin">Une erreur est apparue lors de l\'enregistrement de votre code. Veuillez réessayer.</string>
     <!--Edit Pin-->

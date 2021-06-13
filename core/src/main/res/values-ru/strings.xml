@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--Timestamp-->
-    <string name="Timestamp_JustNow">только что</string>
-    <string name="Timestamp_MinAgo">%d мин назад</string>
-    <string name="Timestamp_HoursAgo">%d ч назад</string>
-    <string name="Timestamp_Today">Сегодня</string>
-    <string name="Timestamp_Yesterday">Вчера</string>
     <string name="Duration_instant">Мгновенно</string>
     <string name="Duration_Within">в течение %s</string>
     <string name="Duration_Hours">%d ч.</string>

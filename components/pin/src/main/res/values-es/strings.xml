@@ -16,9 +16,7 @@
     <!--Set Pin-->
     <string name="SetPin_Title">Código</string>
     <string name="SetPin_Info">Su código servirá para abrir su monedero y enviar dinero</string>
-    <string name="SetPin_ErrorShortPin">Por favor, introduzca todos los dígitos.</string>
     <string name="SetPin_ConfirmInfo">Confirmar</string>
-    <string name="SetPin_Success">¡Tu contraseña se ha establecido correctamente!</string>
     <string name="SetPin_ErrorPinsDontMatch">El código no coincide. Inténtelo de nuevo.</string>
     <string name="SetPin_ErrorFailedToSavePin">Se ha producido un error al intentar guardar su código. Inténtelo de nuevo.</string>
     <!--Edit Pin-->

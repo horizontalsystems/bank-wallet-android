@@ -7,8 +7,7 @@
     <string name="Alert_Loading">Chargement en cours...</string>
     <string name="Alert_Restart">Redémarrer</string>
     <string name="Button_Cancel">Annuler</string>
-    <string name="Button_Skip">Ignorer</string>
-    <string name="Button_Next">Suivant</string>
+    <string name="Button_Next">Next</string>
     <string name="Button_Enable">Activer</string>
     <string name="Button_Disable">Désactiver</string>
     <string name="Button_Close">Fermer</string>
@@ -27,23 +26,19 @@
     <string name="Button_Reset">Reset</string>
     <string name="Error">Erreur</string>
     <string name="NotAvailable">S. O.</string>
-    <string name="None">None</string>
     <string name="Any">Any</string>
-    <string name="Wallet">%s Portefeuille</string>
     <!--Intro-->
-    <string name="Intro_Wallet_Description">Stockez et échangez des crypto-monnaies. Ayez le contrôle total sur les actifs. Restez anonyme.</string>
-    <string name="Intro_Invest_Title">Investissez judicieusement</string>
-    <string name="Intro_Invest_Description">Unstoppable intègre des instruments inégalés de trading, de surveillance et d\'analyse.</string>
-    <string name="Intro_Independence_Title">Soyez indépendant</string>
-    <string name="Intro_Independence_Description">Unstoppable est construit pour s\'assurer que les utilisateurs sont en mesure d\'accéder aux fonds à tout moment depuis n\'importe où.</string>
-    <string name="Intro_Privacy_Title">Gardez votre confidentialité</string>
-    <string name="Intro_Privacy_Description">Utilisez ce portefeuille pour rester incognito et conserver la confidentialité de vos informations.</string>
+    <string name="Intro_Wallet_Screen1Description">Be Unstoppable</string>
+    <string name="Intro_Wallet_Screen2Title">Unchain Assets</string>
+    <string name="Intro_Wallet_Screen2Description">Don\'t lock yourself in and don\'t let others do that to you.</string>
+    <string name="Intro_Wallet_Screen3Title">Go Borderless</string>
+    <string name="Intro_Wallet_Screen3Description">Bypass conditional barriers and access markets globally.</string>
+    <string name="Intro_Wallet_Screen4Title">Stay Private</string>
+    <string name="Intro_Wallet_Screen4Description">Do not leak your private and financial data to the world.</string>
     <!--Rooted Device-->
     <string name="RootedDevice_Button_Understand">J’ai Compris</string>
     <!--Welcome-->
     <string name="Welcome_PrivacySettings">Paramètres de Confidentialité</string>
-    <string name="Welcome_CreateWallet">Nouveu Porte-Monnaie</string>
-    <string name="Welcome_RestoreWallet">Restaurer le porte-monnaie</string>
     <!--Create Wallet-->
     <string name="CreateWallet_Title">Nouveau porte-monnaie</string>
     <string name="CreateWallet_Mnemonic">Mnémonique</string>
@@ -61,13 +56,9 @@
     <string name="RateApp_Button_RateIt">Evaluez-là</string>
     <string name="RateApp_Button_NotNow">Plus tard</string>
     <!--Restore-->
-    <string name="Restore_ChooseWallet">Choisissez le portefeuille</string>
     <string name="Restore_Enter_Key_Title">Entrez la clé</string>
-    <string name="Restore_Enter_Key_Description_Mnemonic">Entrez votre clé privée pour le Portefeuille %1s 
-qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact et séparés par des espaces.</string>
     <string name="Restore_Mnemonic_Description">Saisissez votre mnémonique qui consiste en 12 ou 24 mots. Les mots doivent être saisis dans l\'ordre correct et séparés par des espaces.</string>
     <string name="Restore_ValidationFailed">Clé incorrect</string>
-    <string name="Restore_InvalidWordCount">Mauvais nombre de mots: %1$d, doit être %2$d</string>
     <string name="Restore_Error_MnemonicWordCount">Le nombre de mots est incorrect. Il doit être de 12 ou 24. Vous avez saisi : %d</string>
     <string name="Restore_Error_EmptyPassphrase">La phrase d\'authentification ne peut pas être laissée en blanc</string>
     <string name="Restore_InvalidChecksum">Somme de contrôle invalide</string>
@@ -76,15 +67,7 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="Restore_ZCash_BirthdayHeight">Hauteur de l\'anniversaire</string>
     <string name="Restore_ZCash_BirthdayHeight_Hint">Si vous savez quelle est la hauteur de l\'anniversaire de votre portefeuille Zcash, ajoutez-la ci-dessous pour accélérer le processus de synchronisation.</string>
     <!--Backup-->
-    <string name="Backup_Intro_Title">Sauvegarde</string>
-    <string name="Backup_Intro_TitleShow">Voir la clé</string>
-    <string name="Backup_Intro_Subtitle">La clé privée qui va s\'afficher est le seul moyen de restaurer vos fonds si votre téléphone est perdu, volé, endommagé, etc. \n\nAssurez-vous que personne ne regarde votre écran.\n\nLes pièces sont contrôlées grâce à cette clé :%s.</string>
-    <string name="Backup_DisplayTitle">Clé privée</string>
-    <string name="Backup_Confirmation_Description">Entrez les mots de votre clé %s</string>
-    <string name="Backup_Confirmation_FailureAlertText"> Les mots ne correspondent pas</string>
     <string name="Backup_Confirmation_CheckTitle">Vérification…</string>
-    <string name="Backup_Button_Backup">Sauvegarde</string>
-    <string name="Backup_Button_ShowKey">Voir la clé</string>
     <!--Market-->
     <string name="Market_Field_MarketCap">Cap. marché</string>
     <string name="Market_Field_Volume">Volume</string>
@@ -185,11 +168,8 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="Market_Filter_ChooseSet">Choose Set</string>
     <string name="Market_Filter_MarketCap">Market Cap</string>
     <string name="Market_Filter_Volume">Trading Volume</string>
-    <string name="Market_Filter_Liquidity">DEX Liquidity</string>
-    <string name="Market_Filter_LiquidityHint">This setting applies to tokens traded on Ethereum (Uniswap DEX) and Binance Smart Chain (Pancake DEX).</string>
     <string name="Market_Filter_PricePeriod">Price Period</string>
     <string name="Market_Filter_PriceChange">Price Change</string>
-    <string name="Market_Filter_ResetAll">Reset All</string>
     <string name="Market_Filter_OutperformedBtc">Outperformed BTC</string>
     <string name="Market_Filter_OutperformedEth">Outperformed ETH</string>
     <string name="Market_Filter_OutperformedBnb">Outperformed BNB</string>
@@ -227,7 +207,6 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="CoinMarket_Title">%s Markets</string>
     <!--Balance-->
     <string name="Balance_Title">Balance</string>
-    <string name="Balance_Deposit">Recevoir</string>
     <string name="Balance_Send">Envoyer</string>
     <string name="Balance_RatePerCoin">%s par %s</string>
     <string name="Balance_SyncedUntil">jusqu\'à: %s</string>
@@ -241,13 +220,13 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="Balance_Sort_PopupTitle">Trier par</string>
     <string name="Balance_Sort_Az">Nom</string>
     <string name="Balance_Sort_24hPriceChange">Prix 24h (%)</string>
+    <string name="Balance_Hidden">hidden</string>
     <string name="Balance_Backup_Alert">Vous devez sauvegarder le portefeuille %s avant de recevoir %s.</string>
     <string name="Balance_NoWalletAlert">Vous n\'avez pas encore de portefeuille. Veuillez créer un nouveau portefeuille ou restaurer un portefeuille existant </string>
     <string name="Balance_NoCoinsAlert">Vous n\'avez ajouté aucune pièce à ce portefeuille</string>
     <!--Send-->
     <string name="Send_Title">Envoyer %s</string>
     <string name="Send_Hint_Address">Adresse ou domaine</string>
-    <string name="Send_Hint_Amount">Montant</string>
     <string name="Send_Fee">Frais</string>
     <string name="Send_Button_Paste">Coller</string>
     <string name="Send_Button_Max">Max</string>
@@ -257,7 +236,6 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="Send_Confirmation_Amount">Montant</string>
     <string name="Send_Confirmation_To">À</string>
     <string name="Send_Confirmation_Receiver">Récepteur</string>
-    <string name="Send_Confirmation_Input">Entrées</string>
     <string name="Send_Confirmation_EstimateTime">Temps estimé :</string>
     <string name="Send_Confirmation_Send_Button">Envoyer</string>
     <string name="Send_Success">\u2713 Envoyé</string>
@@ -269,7 +247,6 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="Send_Error_MinimumAmount">Montant minimum %s</string>
     <string name="Send_Error_MaximumAmount">Montant maximum %s</string>
     <string name="Send_Error_MinRequiredBalance">Minimum requis %s restant</string>
-    <string name="Send_Error_WrongParameters">Paramètres erronés</string>
     <string name="Send_Error_TransparentAddress">Unstoppable ne prend pas en charge les paiements à une adresse transparente</string>
     <string name="Send_Error_SendToSelf">L\'envoi à soi-même n\'est pas pris en charge</string>
     <string name="Send_DialogAvailableBalance">Solde disponible</string>
@@ -279,7 +256,6 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="Send_TxSpeed_Recommended">Recommandé</string>
     <string name="Send_TxSpeed_Custom">Personnalisé</string>
     <string name="Send_TxSpeed_CustomFeeHint">sat/byte</string>
-    <string name="Send_DialogDuration">Durée </string>
     <string name="Send_DialogFee">Frais:</string>
     <string name="Send_DialogProceed">Suivant</string>
     <string name="Send_LockTime_Off">Désactivé</string>
@@ -309,11 +285,15 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="WalletConnect_Ready_Hint">Vous pouvez aller sur le navigateur. Ne fermez pas cette page pendant que vous interagissez dans le navigateur.</string>
     <string name="WalletConnect_Error_InvalidUrl">Adresse URL invalide</string>
     <string name="WalletConnect_Requirement">Condition préalable</string>
-    <string name="WalletConnect_RequirementDescription">Vous devez ajouter Ethereum ou quelques pièces ERC20 pour équilibrer l\'onglet afin d\'utiliser WalletConnet.</string>
     <string name="WalletConnect_Status_Offline">Déconnecté</string>
     <string name="WalletConnect_Status_Online">En ligne</string>
     <string name="WalletConnect_Status_Connecting">Connexion en cours…</string>
     <string name="WalletConnect_NewConnect">Nouvelle connexion</string>
+    <string name="WalletConnect_SignMessageRequest_Title">Sign Request</string>
+    <string name="WalletConnect_SignMessageRequest_Domain">Domain</string>
+    <string name="WalletConnect_SignMessageRequest_ShowMessageTitle">Message to sign</string>
+    <string name="WalletConnect_SignMessageRequest_SignMessageHint">Please sign a message to authenticate</string>
+    <string name="WalletConnect_SignMessageRequest_ButtonSign">Sign</string>
     <!--EthereumTransaction-->
     <string name="EthereumTransaction_Error_InsufficientBalance">La transaction nécessite %s pour l\'envoi</string>
     <string name="EthereumTransaction_Error_InsufficientBalanceForFee">Le solde actuel des %s est inférieur au montant requis pour traiter cette transaction, frais de transaction compris.</string>
@@ -329,7 +309,6 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="Swap_Price">Prix</string>
     <string name="Swap_PriceImpact">Impact prix</string>
     <string name="Swap_MinimumReceived">Montant garanti</string>
-    <string name="Swap_SwapFee">Frais d\'échange</string>
     <string name="Swap_EstimatedFee">Frais estimés</string>
     <string name="Swap_MaxFee">Frais Max</string>
     <string name="Swap_Fee">Frais</string>
@@ -421,7 +400,6 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="TransactionInfo_Fee">Frais</string>
     <string name="TransactionInfo_SentToSelfNote">Cette transaction a été envoyée à votre propre adresse</string>
     <string name="TransactionInfo_DoubleSpendNote">Risque de double dépense !</string>
-    <string name="TransactionInfo_Input">Entrées</string>
     <string name="TransactionInfo_ButtonViewOnExplorerName">Afficher sur %s</string>
     <string name="StatusInfo_Pending">En attente</string>
     <string name="StatusInfo_SendingReceiving">Envoi/Réception</string>
@@ -555,7 +533,6 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="Binance_Backend_Error_RequiresDigits">Nécessite que le mémo ne contienne que des chiffres</string>
     <!--Hud texts-->
     <string name="Hud_Text_Success">Effectué</string>
-    <string name="Hud_Text_Done">Fait</string>
     <string name="Hud_Text_NoInternet">Aucune connexion Internet</string>
     <string name="Hud_Text_Copied">Copié</string>
     <string name="Hud_Text_EmailAddressCopied">Adresse email copiée</string>
@@ -581,16 +558,18 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="ManageAccount_Save">Sauvegarder</string>
     <string name="ManageAccount_RecoveryPhraseBackup">Sauvegarder la phrase</string>
     <string name="ManageAccount_RecoveryPhraseShow">Afficher la phrase</string>
+    <string name="ManageAccount_NetworkSettings">Network Settings</string>
     <string name="ManageAccount_Unlink">Délier</string>
     <string name="ManageAccount_BackupRequired_Title">Sauvegarde requise</string>
     <string name="ManageAccount_BackupRequired_Description">Vous devez sauvegarder la clé privée avant de pouvoir la supprimer de ce téléphone.</string>
-    <string name="ManageAccount_DeleteFromPhone">Supprimer de l\'appareil</string>
     <string name="ManageAccount_Delete_ConfirmationRemove">L\'action va supprimer ce portefeuille de l\'appareil.</string>
     <string name="ManageAccount_Delete_ConfirmationDisable">Toutes les pièces qui appartiennent à ce portefeuille seront désactivées sur l\'onglet solde.</string>
     <string name="ManageAccount_Delete_ConfirmationLose">Si vous n\'avez pas sauvegardé la clé privée de ce portefeuille, vous perdrez l\'accès à vos fonds.</string>
     <string name="ManageAccount_BirthdayHeight">Hauteur de l\'anniversaire %s</string>
     <string name="ManageAccount_NWords">%s mots</string>
     <string name="ManageAccount_NWordsWithPassphrase">%s mots avec phrase d\'authentification</string>
+    <!--Network Settings-->
+    <string name="NetworkSettings_Title">Network Settings</string>
     <!-- Show Key -->
     <string name="ShowKey_Title">Clé</string>
     <string name="ShowKey_Description">Les phrases de réinitialisation qui vont suivre sont le seul moyen de restaurer vos fonds si votre téléphone est perdu, volé, endommagé, etc.\n\nVeuillez vous assurer que personne ne regarde votre écran.</string>
@@ -602,7 +581,6 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <!-- Backup Key -->
     <string name="BackupKey_Title">Sauvegarde</string>
     <string name="BackupKey_Description">Les phrases de réinitialisation qui vont suivre sont le seul moyen de restaurer vos fonds si votre téléphone est perdu, volé, endommagé, etc.\n\nVeuillez vous assurer que personne ne regarde votre écran.</string>
-    <string name="BackupKey_ButtonShow">Afficher</string>
     <string name="BackupKey_ButtonBackup">Sauvegarde</string>
     <string name="BackupConfirmKey_Description">Entrez les phrases de réinitialisation dans l\'ordre correct pour confirmer</string>
     <string name="BackupConfirmKey_EmptyOrInvalidWords">Les mots saisis sont vides ou non valides</string>
@@ -613,14 +591,8 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <!--Manage Keys Delete Alert-->
     <string name="ManageKeys_Delete_Title">Supprimer le portefeuille</string>
     <string name="ManageKeys_Delete_ConfirmationRemove">Cette action supprimera le portefeuille %s de cet appareil.</string>
-    <string name="ManageKeys_Delete_ConfirmationDisable">Coins qui seront désactivées : %s</string>
-    <string name="ManageKeys_Delete_ConfirmationLose">Si vous n\'avez pas sauvegardé la clé privée de ce portefeuille, vous perdrez l\'accès à vos fonds.</string>
     <string name="ManageKeys_Delete_FromPhone">Supprimer de l\'appareil</string>
-    <string name="ManageKeys_Delete_Alert_Title">Sauvegarde requise</string>
-    <string name="ManageKeys_Delete_Alert">Vous devez sauvegarder la clé privée avant de pouvoir la supprimer de ce téléphone.</string>
     <!-- Manage Keys Alert -->
-    <string name="AddCoin_Title">Ajouter %s</string>
-    <string name="AddCoin_Subtitle">%s Portefeuille</string>
     <string name="AddCoin_Description">Vous devez créer un portefeuille%1$s pour envoyer ou recevoir des %2$s.\n\nUtilisez le bouton Créer ci-dessous pour créer un nouveau portefeuille%3$s , ou le bouton Restaurer pour importer le portefeuille existant.\n\nVous pourrez utiliser ce portefeuille pour : %4$s.</string>
     <string name="AddCoin_CreateKey">Créer</string>
     <string name="AddCoin_RestoreKey">Restaurer</string>
@@ -657,10 +629,6 @@ qui se compose de %2s mots. Les mots doivent être entrés dans leur ordre exact
     <string name="AddressFormatSettings_Title">Format de l\'adresse</string>
     <string name="AddressFormatSettings_Description">Choisissez le format d\'adresse de votre portefeuille %s. Chaque format sélectionné représente un portefeuille différent dans l\'onglet du solde de l\'application.</string>
     <!-- Blockchain Settings -->
-    <string name="BlockchainSettings_BipChangeAlert_Title">Format de l\'adresse</string>
-    <string name="BlockchainSettings_ChangeAlert_ActionButtonText">Changer en %s</string>
-    <string name="BlockchainSettings_BipChangeAlert_Content">Après ce changement, le portefeuille devra se resynchroniser avec la blockchain %1$s.\n\n
-Si vous changez le format d\'adresse pour %2$s , l\'historique du solde actuel et des transactions ne sera plus visible. Si vous revenez au paramètre précédent, tout sera remis en place une fois que le portefeuille se sera resynchronisé avec la blockchain. Nous vous recommandons de ne pas faire de modification si vous n\'êtes pas sûr de vous.</string>
     <string name="BlockchainSettings_SyncModeChangeAlert_Title">Restaurer la source</string>
     <string name="BlockchainSettings_SyncModeChangeAlert_Content">Après cette modification, le portefeuille devra se resynchroniser avec la blockchain %s.</string>
     <string name="BlockchainSettings_CommunicationModeChangeAlert_Title">Communication</string>
@@ -678,8 +646,6 @@ Si vous changez le format d\'adresse pour %2$s , l\'historique du solde actuel e
     <string name="TorPage_Failed">Échec</string>
     <string name="TorPage_ConnectionClosed">Déconnecté</string>
     <string name="Tor_PrerequisitesAlert_Content">L\'activation de TOR réinitialisera la connexion de la blockchain Ethereum à Infura.</string>
-    <!-- Account Types -->
-    <string name="AccountType_Unstoppable">Standard</string>
     <!--Coin Option-->
     <string name="CoinOption_bip44_Subtitle">Plus ancient (commence par %s...)</string>
     <string name="CoinOption_bip49_Subtitle">Populaire (commence par %s...)</string>
@@ -694,13 +660,12 @@ Si vous changez le format d\'adresse pour %2$s , l\'historique du solde actuel e
     <string name="CoinPage_TimeDuration_HalfYear">6M</string>
     <string name="CoinPage_TimeDuration_Year">1Y</string>
     <string name="CoinPage_TimeDuration_Year2">2Y</string>
-    <string name="CoinPage_RatingDetails">Rating Details</string>
-    <string name="CoinPage_Price">Price</string>
-    <string name="CoinPage_Market">Market</string>
+    <string name="CoinPage_Markets">Markets</string>
     <string name="CoinPage_TradingVolume">Trading Volume</string>
+    <string name="CoinPage_MajorHolders">Major Holders</string>
+    <string name="CoinPage_InvestorData">Investor Data</string>
     <string name="CoinPage_FundsInvested">Funds Invested</string>
     <string name="CoinPage_Range24">24h Range</string>
-    <string name="CoinPage_Performance">Performance</string>
     <string name="CoinPage_About">About</string>
     <string name="CoinPage_Category">Category</string>
     <string name="CoinPage_Guide">Guide</string>
@@ -710,38 +675,32 @@ Si vous changez le format d\'adresse pour %2$s , l\'historique du solde actuel e
     <string name="CoinPage_Twitter">Twitter</string>
     <string name="CoinPage_Telegram">Telegram</string>
     <string name="CoinPage_Github">Github</string>
-    <string name="CoinPage_Changes1W">Changes (1W)</string>
-    <string name="CoinPage_Changes1M">Changes (1M)</string>
     <string name="CoinPage_MarketCap">Market Cap</string>
     <string name="CoinPage_DilutedMarketCap">Diluted MCap</string>
-    <string name="CoinPage_Volume24">Volume(24h)</string>
     <string name="CoinPage_inCirculation">In Circulation</string>
     <string name="CoinPage_TotalSupply">Total Supply</string>
-    <string name="CoinPage_StartDate">Launch Date</string>
     <string name="CoinPage_MarketCap_Thousand">k</string>
     <string name="CoinPage_MarketCap_Million">M</string>
     <string name="CoinPage_MarketCap_Billion">B</string>
     <string name="CoinPage_MarketCap_Trillion">T</string>
     <string name="CoinPage_Volume">Vol</string>
-    <string name="CoinPage_Error_NotAvailable">Graphique non disponible</string>
-    <string name="CoinPage_LatestNews">Latest News</string>
+    <string name="CoinPage_NoData">No Data</string>
     <string name="CoinPage_Favorite">Favorite</string>
     <string name="CoinPage_Unfavorite">Unfavorite</string>
     <string name="CoinPage_Performance_Week">1 Week</string>
     <string name="CoinPage_Performance_Month">1 Month</string>
     <string name="CoinPage_ReadMore">Read More</string>
     <string name="CoinPage_ReadLess">Read Less</string>
-    <string name="CoinPage_LaunchDate">Launch Date</string>
+    <string name="CoinPage_LaunchDate">Inception Date</string>
     <string name="CoinPage_Tvl">Total Value Locked</string>
     <string name="CoinPage_TvlRank">TVL Rank</string>
     <string name="CoinPage_TvlMCapRatio">MCap / TVL Ratio</string>
     <string name="CoinPage_TvlDescription">Capital deposited into the platform in the form of loan collateral or liquidity pool.</string>
     <string name="CoinPage_Contract">%s Contract</string>
     <string name="CoinPage_Bep2Symbol">BEP2 Symbol</string>
+    <string name="CoinPage_MajorHolders_Address">Address</string>
+    <string name="CoinPage_MajorHolders_Description">Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.</string>
     <!--Rate list-->
-    <string name="RateList_portfolio">Portfolio</string>
-    <string name="RateList_top100">Top 100</string>
-    <string name="RateList_Rank">Rang</string>
     <string name="RateList_TopGainers">Top Gainers</string>
     <string name="RateList_TopLosers">Top Losers</string>
     <string name="RateList_Posts">News</string>
@@ -753,4 +712,6 @@ Si vous changez le format d\'adresse pour %2$s , l\'historique du solde actuel e
     <string name="BalanceSyncError_ButtonRetry">Réessayer</string>
     <string name="BalanceSyncError_ButtonChangeSource">Changer la Source</string>
     <string name="BalanceSyncError_ButtonReport">Signaler</string>
+    <!--Release notes-->
+    <string name="ReleaseNotes_FollowUs">Follow Us</string>
 </resources>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--Timestamp-->
-    <string name="Timestamp_JustNow">همين الان</string>
-    <string name="Timestamp_MinAgo">%d؜دقيقه پيش</string>
-    <string name="Timestamp_HoursAgo">%dساعت پيش</string>
-    <string name="Timestamp_Today">امروز</string>
-    <string name="Timestamp_Yesterday">ديروز</string>
     <string name="Duration_instant">فوری</string>
     <string name="Duration_Within">در %s</string>
     <string name="Duration_Hours">%d ساعت.</string>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--Timestamp-->
-    <string name="Timestamp_JustNow">刚才</string>
-    <string name="Timestamp_MinAgo">%d分钟前</string>
-    <string name="Timestamp_HoursAgo">%d小时前</string>
-    <string name="Timestamp_Today">今天</string>
-    <string name="Timestamp_Yesterday">昨天</string>
     <string name="Duration_instant">即时</string>
     <string name="Duration_Within">在%s内</string>
     <string name="Duration_Hours">%d小时。</string>

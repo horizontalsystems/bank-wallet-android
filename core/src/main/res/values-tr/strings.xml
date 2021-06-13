@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--Timestamp-->
-    <string name="Timestamp_JustNow">şimdi</string>
-    <string name="Timestamp_MinAgo">%d dk önce</string>
-    <string name="Timestamp_HoursAgo">%d saat önce</string>
-    <string name="Timestamp_Today">Bugün</string>
-    <string name="Timestamp_Yesterday">Dün</string>
     <string name="Duration_instant">Anlık</string>
     <string name="Duration_Within">%s Içinde</string>
     <string name="Duration_Hours">%d sa.</string>
